@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
-
+import Prompt from './Prompt.jsx'
 class App extends Component {
   render() {
-    return (
-      <h1>Hello React :)</h1>
+    return (<div id='main'>
+      <Prompt> </Prompt>
+      </div>
     );
   }
 }
