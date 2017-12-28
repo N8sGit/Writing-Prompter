@@ -41,9 +41,14 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "body-parser": "^1.18.2",
+    "categorized-words": "^1.0.0",
+    "country-list": "^1.1.0",
     "express": "^4.16.2",
+    "fs": "0.0.1-security",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "sentence-generator": "^1.0.1",
+    "whimsy": "^1.0.1"
   },
   "main": "server.js"
 }
